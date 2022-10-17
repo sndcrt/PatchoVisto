@@ -1,0 +1,15 @@
+{
+    "name": "docker_web",
+    "version": "1.0.0",
+    "description": "Node.js avec Docker",
+    "author": "Alexandre Oursel",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "curl": "^0.1.4",
+        "express": "^4.16.1",
+        "vue": "^3.2.41"
+    }
+}
